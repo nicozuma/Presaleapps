@@ -1,0 +1,170 @@
+{
+  "type": {
+    "value": "feed"
+  },
+  "entry": [
+    {
+      "id": "001",
+      "title": "El Santiago Bernabéu del siglo XXI",
+      "summary": "",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
+        "type": "video/hls"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/nicozuma/Presaleapps/main/Reforma-del-estadio-Santiago-Bernabe%CC%81u-05.jpeg?token=AK4FQNHATZACERGBK2V67NLASU5HI",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "duration": 183
+      }
+    },
+    {
+      "id": "002",
+      "title": "GRACIAS ALFREDO DI ESTÉFANO",
+      "summary": "",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/nicozuma/Presaleapps/main/DiStefano_Grande%2C0.jpeg?token=AK4FQNHJIUMJAB6WXZTHQTTASU5QG",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "duration": 243
+      }
+    },
+    {
+      "id": "003",
+      "title": "¡La 34ª Liga!",
+      "summary": "",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/nicozuma/Presaleapps/main/1500x665_HE28969%2C0.jpeg?token=AK4FQNGNON5CH6HPQ2D2E5LASU5UA",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "duration": 209
+      }
+    },
+    {
+      "id": "004",
+      "title": "¡La Décima!",
+      "summary": "",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://github.com/nicozuma/Presaleapps/blob/main/LADECIMA.jpeg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "duration": 198
+      }
+    },
+    {
+      "id": "005",
+      "title": "¡Undécima Supercopa de España!",
+      "summary": "",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/nicozuma/Presaleapps/main/_AV22677_Thumb%2C3.jpg?token=AK4FQNBHGIZRVCJY5DR63WDASU6AK",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "duration": 202
+      }
+    },
+    {
+      "id": "006",
+      "title": "LA DECIMOTERCERA",
+      "summary": "",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/nicozuma/Presaleapps/main/1500x665_RAMOS-LEVANTA-COPA_2RM1011%2C0.jpeg?token=AK4FQNFMKGJ2RVI5HL7FW6DASU47S",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "duration": 312
+      }
+    }
+  ],
+  "author": {
+    "name": "Applicaster"
+  },
+  "id": "LVE-001",
+  "title": "ESPECIALES",
+  "description": ""
+}
