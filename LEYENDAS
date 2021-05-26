@@ -1,0 +1,118 @@
+{
+  "type": {
+    "value": "feed"
+  },
+  "entry": [
+    {
+      "id": "001",
+      "title": "Historia del Real Madrid",
+      "summary": "",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
+        "type": "video/hls"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/nicozuma/Presaleapps/main/real-madrid-alfredo-di-stefano.jpeg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "duration": 183
+      }
+    },
+    {
+      "id": "002",
+      "title": "Jugadores míticos del Real Madrid",
+      "summary": "",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/nicozuma/Presaleapps/main/leyendas_futbol-zd.jpeg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "duration": 243
+      }
+    },
+    {
+      "id": "003",
+      "title": "Historia del Real Madrid de baloncesto",
+      "summary": "",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/nicozuma/Presaleapps/main/leyendas_basketl2.jpeg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "duration": 209
+      }
+    },
+    {
+      "id": "004",
+      "title": "Jugadores míticos del Real Madrid",
+      "summary": "",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/nicozuma/Presaleapps/main/real-madrid-emiliano.jpeg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "duration": 198
+      }
+    }
+  ],
+  "author": {
+    "name": "LEYENDAS"
+  },
+  "id": "010",
+  "title": "LEYENDAS",
+  "description": ""
+}
