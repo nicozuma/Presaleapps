@@ -1,0 +1,118 @@
+{
+  "type": {
+    "value": "feed"
+  },
+  "entry": [
+    {
+      "id": "001",
+      "title": "FIT FOR LIFE",
+      "summary": "28/06/2021",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8",
+        "type": "video/hls"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/nicozuma/Presaleapps/main/real-madrid-alfredo-di-stefano.jpeg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "duration": "6:00",
+      }
+    },
+    {
+      "id": "002",
+      "title": "OLYMPIC CHANNEL STRANGEST MOMENTS",
+      "summary": "28/06/2021",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/nicozuma/Presaleapps/main/leyendas_futbol-zd.jpeg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "duration": "9:30",
+      }
+    },
+    {
+      "id": "003",
+      "title": "DEPORTES EN CLARO",
+      "summary": "28/06/2021",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/nicozuma/Presaleapps/main/leyendas_basketl2.jpeg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "duration": "10:00",
+      }
+    },
+    {
+      "id": "004",
+      "title": "ESTO ES PGA TOUR LATINOAMERICA",
+      "summary": "28/06/2021",
+      "type": {
+        "value": "video"
+      },
+      "content": {
+        "src": "https://content.jwplatform.com/manifests/yp34SRmf.m3u8"
+      },
+      "media_group": [
+        {
+          "type": "image",
+          "media_item": [
+            {
+              "type": "image",
+              "src": "https://raw.githubusercontent.com/nicozuma/Presaleapps/main/real-madrid-emiliano.jpeg",
+              "key": "image_base"
+            }
+          ]
+        }
+      ],
+      "extensions": {
+        "duration": "11:00",
+      }
+    }
+  ],
+  "author": {
+    "name": "EPG"
+  },
+  "id": "010",
+  "title": "EPG",
+  "description": ""
+}
